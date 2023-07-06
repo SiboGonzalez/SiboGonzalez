@@ -1,4 +1,14 @@
-### Hi there 👋
+### Welcome to my profile! 👋
+
+Hi, I'm Siboney, I'm a girl with a positive attitude, always looking to cooperate and support everyone in the best possible way, teaching, training, and learning.
+
+I´m a Network and Cybersecurity technician, I study programming and web design and development.
+I am a Senior Data Analyst, Fraud Analyst, and Customer Service Specialist, with experience in national and international companies.
+
+I have knowledge in:
+| Javascript | HTML5 | Git & GitHub | Power BI | Excel | Pivots | SQL | Python |.
+
+I invite you to connect with me on LinkedIn [https://www.linkedin.com/in/siboneygonzalez/]
 
 <!--
 **SiboGonzalez/SiboGonzalez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
